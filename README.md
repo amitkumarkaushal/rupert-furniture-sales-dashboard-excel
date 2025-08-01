@@ -23,7 +23,7 @@ This Excel-based dashboard analyzes sales by category, delivery speed, material-
 ## Dataset Overview
 
 - **Duration**: Annual Sales Snapshot (Simulated)
-- **Columns**: `order_id`, `price`, `quantity`, `inventory`, `delivery_range`, `category`, `material`, `color`, `location`, `season`, `store_type`, `brand`, `revenue`
+- **Columns**: `order_id`, `price`, `quantity`, `inventory`, `delivery_range`, `category`, `material`, `location`, `season`, `store_type`, `brand`, `final revenue`
 - **Source**: Simulated internal dataset of Rupert's furniture business
 
 ---
