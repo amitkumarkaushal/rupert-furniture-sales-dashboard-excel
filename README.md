@@ -14,7 +14,7 @@ This Excel-based dashboard analyzes sales by category, delivery speed, material-
 ## 📚 Index
 
 1. [Objective Objective (Problem Statement)](https://github.com/amitkumarkaushal/rupert-furniture-sales-dashboard-excel/blob/main/README.md#objective-problem-statement)  
-2. [Dataset Overview]([#-dataset-overview](https://github.com/amitkumarkaushal/rupert-furniture-sales-dashboard-excel/blob/main/README.md#dataset-overview)  
+2. [Dataset Overview](https://github.com/amitkumarkaushal/rupert-furniture-sales-dashboard-excel/blob/main/README.md#dataset-overview)  
 3. [Business Questions Answered](https://github.com/amitkumarkaushal/rupert-furniture-sales-dashboard-excel/blob/main/README.md#eda-or-business-questions-answered)  
 4. [Key Insights](https://github.com/amitkumarkaushal/rupert-furniture-sales-dashboard-excel/blob/main/README.md#key-insights)  
 5. [Final Recommendation](https://github.com/amitkumarkaushal/rupert-furniture-sales-dashboard-excel/blob/main/README.md#final-recommendation)  
